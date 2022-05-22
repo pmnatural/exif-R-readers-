@@ -6,6 +6,8 @@ Las fotos actuales almacenan metadatos en formato [exif](https://en.wikipedia.or
 
 En R encontre los siguientes paquetes activos:
 
-[exifr](https://github.com/paleolimbot/exifr) y [exiftoolr](https://github.com/JoshOBrien/exiftoolr).  Este ultimo es mas facil de usar y lee muchos formatos de imagenes de fotos.
+[exifr](https://github.com/paleolimbot/exifr) y [exiftoolr](https://github.com/JoshOBrien/exiftoolr).  
+
+Este ultimo es mas facil de usar y lee muchos formatos de imagenes al usarse en conjunto con el paquete _magick_.
 
 
