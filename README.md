@@ -4,9 +4,8 @@ Muchas veces necesito descargar los datos de fecha y hora de  fotos que saque co
 
 Las fotos actuales almacenan metadatos en formato [exif](https://en.wikipedia.org/wiki/Exif), que entre otra infor contiene la fecha y hora y coordenadas si fueron tomadas.
 
-En R encontre los siguientes paquetes:
+En R encontre los siguientes paquetes activos:
 
-[exifr](https://github.com/paleolimbot/exifr)
+[exifr](https://github.com/paleolimbot/exifr) y [exiftoolr](https://github.com/JoshOBrien/exiftoolr).  Este ultimo es mas facil de usar y lee muchos formatos de imagenes de fotos.
 
 
-[exiftoolr](https://github.com/JoshOBrien/exiftoolr)
