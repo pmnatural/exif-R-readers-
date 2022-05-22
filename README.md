@@ -7,4 +7,6 @@ Las fotos actuales almacenan metadatos en formato [exif](https://en.wikipedia.or
 En R encontre los siguientes paquetes:
 
 [exifr](https://github.com/paleolimbot/exifr)
+
+
 [exiftoolr](https://github.com/JoshOBrien/exiftoolr)
